@@ -1,0 +1,10 @@
+bin\Debug\LibSVM.dll
+bin\Debug\LibSVM.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LibSVM.dll
+obj\Debug\LibSVM.pdb
+bin\Release\LibSVM.dll
+bin\Release\LibSVM.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\LibSVM.dll
+obj\Release\LibSVM.pdb

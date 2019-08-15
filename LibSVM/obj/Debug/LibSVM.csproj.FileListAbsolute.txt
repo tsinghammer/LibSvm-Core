@@ -1,0 +1,5 @@
+C:\Projekte\Bee2Bee Crawler\LibSVM\bin\Debug\LibSVM.dll
+C:\Projekte\Bee2Bee Crawler\LibSVM\bin\Debug\LibSVM.pdb
+C:\Projekte\Bee2Bee Crawler\LibSVM\obj\Debug\ResolveAssemblyReference.cache
+C:\Projekte\Bee2Bee Crawler\LibSVM\obj\Debug\LibSVM.dll
+C:\Projekte\Bee2Bee Crawler\LibSVM\obj\Debug\LibSVM.pdb
